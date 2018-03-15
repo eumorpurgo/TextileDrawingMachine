@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script>
+        window.jQuery || document.write('<script src="{{url_for('static', filename='jquery.js') }}">\x3C/script>')
+    </script>
+</script>
+
+<script type=text/javascript>
+  $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+</script>
+
+<script type="text/javascript">
+$(function() {
+    $('#convertButton').bind('click', function() {
+        var speedVal = ($("#speedInput")).val()
+        if (speedVal === '')
+            speedVal = '1000'
+        
+        var toolDiameterVal = ($('#toolDiameterInput')).val()
+        if (toolDiameterVal === '')
+            toolDiameterVal = '21'
+
+        var fillingOptionVal = ($('#fillingOptionInput')).val()
+        if (fillingOptionVal === '')
+            fillingOptionVal = 'no-fill'
+
+        var imageSizeVal = ($('#imageSizeInput')).val()
+        if (imageSizeVal === '')
+            imageSizeVal = '1200'    
+
+      $.getJSON($SCRIPT_ROOT + '/generate', {
+        fileName: ($("#fileSelector"))[0].files[0].name,
+        speed: speedVal,
+        toolDiameter: toolDiameterVal,
+        fillingOption: fillingOptionVal,
+        imageSize: imageSizeVal
+      }, function(data) {
+        $("#result").text(data.result);
+      });
+      return false;
+    });
+
+    $('#uploadResultContainer').bind('onLoad', function() {
+        var response = $('#uploadResultContainer').contents().find('body').text();
+        $("#uploadResult").text("upload done");
+    });
+
+});
+
+</script>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>converter</title>
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <div id="container">
+        <div class="title">
+            <h1>DigitalWaxPrint__converter</h1>
+        </div>
+
+        <br><br>
+
+        <div id="content">
+            
+            <div>
+                <h2>1. choose an image file to convert</h2>
+                <form target="iframe" action="upload" method="post" enctype="multipart/form-data">
+                    <input name="file" type="file" id="fileSelector"/> 
+                    <input type="submit" value="Upload" />
+                </form>
+                <iframe name="iframe" id="uploadResultContainer" style="display:none"></iframe>
+            </div>
+
+            <br>
+
+            <div>
+                <h2>2. choose parameters</h2>
+                Speed:<input type="text" id="speedInput" value="1000"/> <br>
+                Tool diameter in mm:<input type="text" id="toolDiameterInput" value="21"/> <br>
+                Image size in mm:<input type="text" id="imageSizeInput" value="1200"/> <br>
+                Filling option (no-fill or fill-in or auto-fill):<input type="text" id="fillingOptionInput" value="no-fill"/> <br>
+            </div>
+            <br>
+            <div>
+                <h2>3. generate gCode</h2>
+                <button type="submit" class="btn" value="Convert" id="convertButton">Generate</button>
+            </div>
+
+            <div>
+                
+            </div>
+
+        </div>
+    </div>
+</body>
+
+</html>

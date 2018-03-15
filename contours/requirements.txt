@@ -1,0 +1,6 @@
+opencv-python
+matplotlib
+numpy
+scipy
+argparse
+Pillow

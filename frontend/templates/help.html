@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>help</title>
+    </head>
+
+    <body>
+        <h1>DigitalWaxPrint__help</h1>
+        <h3>GCode references</h3>
+        M114: get current position
+        </br>
+        M119: check endstop status
+        </br>
+        G28: auto home (i.e. to home the X axis use the command G28 X)
+        </br>
+        G92: set a position (i.e. to define the current X position to be 20 use the command G28 X20)
+        </br>
+        M92: set step per unit (i.e. to set the step per unit to 8.96 for X axis, issue the command M92 X8.96)
+        </br>
+        <h3>Calibrate the motors</h3>
+        - make the axis move 100mm
+        </br>
+        - mesure the actual distance travelled
+        </br>
+        - use the following formula to calculate the new step per unit to apply
+        </br></br>
+        <math>NewStepsPerUnit = TraveledDist / ActualTravelDist x OldStepsPerUnit</math>
+        </br></br>
+        - issue the command to the printer to use the new value
+        </br></br>
+        <h3>Firmware variables</h3>
+        X_MAX_POS in configuration.h is the maximum position reachable on the X axis
+        
+    </body>
+</html>
