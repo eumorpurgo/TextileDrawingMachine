@@ -31,4 +31,4 @@ To generate the G-code instructions for the machine, the python software contour
 To streamline the all process of generating the code, a frontend can be launched. It offers a web page with some basic G-code instructions that can be used to calibrate the machine and an interface where it is possible to upload the png file and convert them to G-code. 
 
 ### Credits
-Textile Drawing Machine  has been designed by Eugenia Morpurgo (mechanics and electronics), [Florent Noel](https://github.com/heb-dtc) (software), with the help of Sami Sabik and [Come Turrata](https://github.com/cometu). 
+Textile Drawing Machine  has been designed by Eugenia Morpurgo (mechanics and electronics), [Florent Noel](https://github.com/heb-dtc) (software), with the help of [Sami Sabik](http://samisabik.fr/) and [Come Turrata](https://github.com/cometu). 
