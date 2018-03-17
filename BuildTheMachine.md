@@ -30,7 +30,7 @@ Plenty of regular nuts and bolts and plenty of [Tee Nuts - M3 ](http://openbuild
 ](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)
 
 ### Part One: Z axis
-![ZaxisComponents](Imgs_Instruction/ZAxisComponents.jpg)
+![ZaxisComponents](Imgs_Instruction/ZaxisComponents.jpg)
 
 1 - The actual Z axis is made of scraps found in the workshop, combining leftovers of differents machines, and it's belt driven.
 We put here only some photos and not details for the contruction becuase you will never find hte same componets that we are using. [Here](http://www.instructables.com/id/CNC-Z-AXIS-for-ARDUINO-projects-or-small-router-pr/) you can find other open option for a Z Axis of this dimension.
