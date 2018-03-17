@@ -30,11 +30,11 @@ You should use python3 to get a better result. Hd-smoothing option does not work
 
 **Input :**
 
-![Input Image](https://github.com/heb-dtc/DigitalWaxPrint/blob/master/contours/src/joker2.jpg "joker Input")
+![Input Image](https://github.com/eumorpurgo/TextileDrawingMachine/blob/master/contours/src/joker2.jpg "joker Input")
 
 **Output :**
 
-![Output Image](https://github.com/heb-dtc/DigitalWaxPrint/blob/master/contours/src/jokerfilledsvg.png "joker output filled svg")
+![Output Image](https://github.com/eumorpurgo/TextileDrawingMachine/blob/master/contours/src/jokerfilledsvg.png "joker output filled svg")
 
 ### Example contours only
 
@@ -60,11 +60,11 @@ Inline-style:
 
 **Input :**
 
-![Input Image](https://github.com/heb-dtc/DigitalWaxPrint/blob/master/contours/src/joker2.png "joker Input")
+![Input Image](https://github.com/eumorpurgo/TextileDrawingMachine/blob/master/contours/src/joker2.png "joker Input")
 
 **Output :**
 
-![Output Image](https://github.com/heb-dtc/DigitalWaxPrint/blob/master/contours/src/jokerautofillsvg.png "joker output auto fill svg")
+![Output Image](https://github.com/eumorpurgo/TextileDrawingMachine/blob/master/contours/src/jokerautofillsvg.png "joker output auto fill svg")
 
 
 
