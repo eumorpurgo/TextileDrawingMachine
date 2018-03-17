@@ -4,8 +4,8 @@
 Textile Drawing Machine  has been designed by Eugenia Morpurgo (mechanics and electronics), Florent Noel (software), with the help of Sami Sabik and Come Turrata. 
 TDM has been developed for the project Digital Wax Print, a self initiated research project, carried out by The Future Continuous,  a designed studio made by Olivia De Gouveia and Eugenia Morpurgo.
 
-More information abut Digital Wax Print can be found on [here.](http://digitalwaxprint.com/)
-More information abut [The Future Continuous](http://www.thefuturecontinuous.com/) can be found on here.
+More information abut Digital Wax Print can be found [here.](http://digitalwaxprint.com/)
+More information abut The Future Continuous can be found [here](http://www.thefuturecontinuous.com/).
 
 ### Firmware
 
