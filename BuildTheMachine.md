@@ -3,6 +3,8 @@
 
 # How to build the Textile Drawing Machine 
 
+![machine2](Imgs_Instruction/Machine2.jpg)
+
 ### Components list
 
 
