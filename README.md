@@ -29,6 +29,9 @@ The machine is controlled using G-code. To send the G-code instrucions to the ma
 To generate the G-code instructions for the machine, the python software contours can be used. It takes a png as input and ouput the corresponding G-code. It can be found under the contour directory of this repository. See instructions there.
 
 To streamline the all process of generating the code, a frontend can be launched. It offers a web page with some basic G-code instructions that can be used to calibrate the machine and an interface where it is possible to upload the png file and convert them to G-code. 
+### Digital Wax Pen
+
+In this repository you can find also information on how to build a pen to draw with wax on textile with the Textile Drawing Machine.
 
 ### Credits
 Textile Drawing Machine  has been designed by Eugenia Morpurgo (mechanics and electronics), [Florent Noel](https://github.com/heb-dtc) (software), with the help of [Sami Sabik](http://samisabik.fr/) and [Come Turrata](https://github.com/cometu). 
