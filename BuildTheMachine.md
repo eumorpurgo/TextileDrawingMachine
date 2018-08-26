@@ -75,7 +75,7 @@ Our machine uses 1500mm V-Slot®, assembling instructions can be found [here](ht
 ![Ballbearing](Imgs_Instruction/Ballbearing.jpg)
 We reccomend to use 6 ballbearing pillows in order to keep the axle as straight as possible. Therefore repeat this for 6 times.  
 1 - Ball bearing pillow. We bought them [Here.](https://www.amazon.com/Align-Bearing-Pillow-Block-Insert/dp/B00WW6W9Q8).   
-2 - CNC cut aluminium adapters find file here. The adapter is needed because the standard ball bearing pillows dimensions and the vslot dimension don't fit.   
+2 - CNC cut aluminium adapters find file [here](Imgs_Instruction/AdapterTextileMachine.pdf). The adapter is needed because the standard ball bearing pillows dimensions and the vslot dimension don't fit.   
 3 - 6 flat head 4mm diameter screws, 14 flat washers(shims), 6 nuts.    
    
  Use 2 screws, 2 washers and 2 nuts to connect the ball bearing pillow to the adapter.   
