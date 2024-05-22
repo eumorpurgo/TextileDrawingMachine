@@ -19,8 +19,7 @@
 7 - 2 Mechanical endstops.  
 8 - 1 plastic tapperware to use as casing for the electronics.  
 9 - Cable to connect the Arduino Mega with the computer.  
-10 - [Arduino Mega e Ramps 1.4.](www.reprap.org/mediawiki/images/0/06/RAMPS_dossier.pdf
-)    
+10 - [Arduino Mega e Ramps 1.4.](www.reprap.org/mediawiki/images/0/06/RAMPS_dossier.pdf)    
 11 - [Hybrid Stepper Motor for 3D Printer.](https://nodna.de/Hybrid-Stepper-Motor-for-3D-Printer-35kg)  
 12 - [NEMA-17 Planetary 26.85:1 Stepper Motor](https://nodna.de/NEMA-17-Planetary-2685-1-Stepper-Motor)  
 13 - Power supply 12V 5A.
