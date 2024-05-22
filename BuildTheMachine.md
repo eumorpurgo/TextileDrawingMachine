@@ -14,7 +14,7 @@
 2 -  1 V-Slot® 20x40x1500 mm Linear Rail. We bought it [here](http://openbuildspartstore.com/v-slot-20x40-linear-rail/).  
 3 - 1 metal rod of 8mm by 1550mm length.  
 4 - 2  V-Slot® 20x40x250 mm Linear Rail. We bought them [here](http://openbuildspartstore.com/v-slot-20x40-linear-rail/).  
-5 - 2 plates to reinforce the corner connections. We bought them [here](https://www.imp3d-france.com/article/784/).   
+5 - 2 plates to reinforce the corner connections. We bought them [here](https://www.imp3d-france.com/article/784/). Since then it seams they don't sell them anymore but we found them [here](https://www.amazon.com/TTZEZE-Surface-Oxidation-Bracket-Aluminum/dp/B09J52DCGS?th=1)  
 6 - 6 Cast corner brackets. We bought them. [here](http://openbuildspartstore.com/cast-corner-bracket/)   
 7 - 2 Mechanical endstops.  
 8 - 1 plastic tapperware to use as casing for the electronics.  
@@ -58,9 +58,8 @@ Our machine uses 1500mm V-Slot®, assembling instructions can be found [here](ht
 ![BackFrameComponents](Imgs_Instruction/BackFrameComponents.jpg)
 1 - 1 V-Slot® 20x40x1500 mm Linear Rail. We bought it [here](http://openbuildspartstore.com/v-slot-20x40-linear-rail/).  
 2 - 2  V-Slot® 20x40x250 mm Linear Rail. We bought them [here](http://openbuildspartstore.com/v-slot-20x40-linear-rail/).  
-3 - 2 plates to reinforce the corner connections. We bought them [here](https://www.imp3d-france.com/article/784/).  
+3 - 2 plates to reinforce the corner connections. We bought them [here](https://www.imp3d-france.com/article/784/). Since then it seams they don't sell them anymore but we found them [here](https://www.amazon.com/TTZEZE-Surface-Oxidation-Bracket-Aluminum/dp/B09J52DCGS?th=1)  
 4 -  2 cast corner brackets, 14 low profile screws M5 8mm, 14 T nuts. We bought them [here](http://openbuildspartstore.com/).
-
  Use the cast corner brackets to connect the small linear rails to each extremities of the longer rail.  
  Add the joining plate to strenghten the whole structure.  
  
