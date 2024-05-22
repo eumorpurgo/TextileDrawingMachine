@@ -20,15 +20,15 @@
 8 - 1 plastic tapperware to use as casing for the electronics.  
 9 - Cable to connect the Arduino Mega with the computer.  
 10 - [Arduino Mega e Ramps 1.4](https://www.reprap.org/mediawiki/images/0/06/RAMPS_dossier.pdf)    
-11 - [Hybrid Stepper Motor for 3D Printer.](https://nodna.de/Hybrid-Stepper-Motor-for-3D-Printer-35kg)  
-12 - [NEMA-17 Planetary 26.85:1 Stepper Motor](https://nodna.de/NEMA-17-Planetary-2685-1-Stepper-Motor)  
+11 - [Hybrid Stepper Motor for 3D Printer.](https://www.dfrobot.com/product-785.html)  
+12 - [NEMA-17 Planetary 26.85:1 Stepper Motor](https://www.eztronics.nl/webshop3/index.php?route=product/product&product_id=469)  
 13 - Power supply 12V 5A.
 14 - Z axis. See details in the following instructions.  
 15 - Ideally 6 ballbearings pillows unit. See details in the following instructions.  
 16 - 1 wheel 125mm diameter. We bought them [here](https://www.robotshop.com/en/devantech-125mm-wheel.html).
 
 Plenty of regular nuts and bolts and plenty of [Tee Nuts - M3 ](http://openbuildspartstore.com/tee-nuts-m3-10-pack/) and plenty of [low profile scrwes M5 8mm.
-](http://openbuildspartstore.com/low-profile-screws-m5-10-pack/)
+](https://openbuildspartstore.com/low-profile-screws-m5-10-pack-/)
 
 ### Part One: Z axis
 ![ZaxisComponents](Imgs_Instruction/ZaxisComponents.jpg)
