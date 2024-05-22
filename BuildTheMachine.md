@@ -25,7 +25,7 @@
 13 - Power supply 12V 5A.
 14 - Z axis. See details in the following instructions.  
 15 - Ideally 6 ballbearings pillows unit. See details in the following instructions.  
-16 - 1 wheel 125mm diameter. We bought them [here](https://www.robotshop.com/en/devantech-125mm-wheel.html).
+16 - 4 wheel 125mm diameter. We bought them [here](https://www.robotshop.com/en/devantech-125mm-wheel.html).
 
 Plenty of regular nuts and bolts and plenty of [Tee Nuts - M3 ](http://openbuildspartstore.com/tee-nuts-m3-10-pack/) and plenty of [low profile scrwes M5 8mm.
 ](https://openbuildspartstore.com/low-profile-screws-m5-10-pack-/)
