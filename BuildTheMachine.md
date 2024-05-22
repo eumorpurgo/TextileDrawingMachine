@@ -194,7 +194,7 @@ Tighten the cast corner brackets of the X axis onto the T nuts previously insert
 
 **Casing for the boards**
 
-The machine is driven by an [arduino MEGA and a RAMPS 1.4](www.reprap.org/mediawiki/images/0/06/RAMPS_dossier.pdf
+The machine is driven by an [arduino MEGA and a RAMPS 1.4](https://www.reprap.org/mediawiki/images/0/06/RAMPS_dossier.pdf
 ). In order to place the board on the machine, a custom casing can be used. The solution suggested here is to use a kitchen tupperware box.
  ![Tupperware](Imgs_Instruction/tupperware.jpg)
 
