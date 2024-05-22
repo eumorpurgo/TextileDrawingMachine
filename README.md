@@ -5,7 +5,7 @@
 Textile Drawing Machine is a drawing machine thought specifically to draw on textile. Unlike other CNC machine it's dimensions follow the standard textile dimensions (1500mm) and it's on wheels to allow to draw on an unlimited area. 
 TDM has been developed for the project Digital Wax Print, a self initiated research project, carried out by The Future Continuous, a collabration between Olivia De Gouveia and Eugenia Morpurgo.
 
-More information abut Digital Wax Print can be found [here](https://eumo.it/Textile-Drawing-Machine-2017) and for the firt iteration of the project go [here](https://eumo.it/Digital-Wax-Print-1-2013)
+More information abut Digital Wax Print can be found [here](https://eumo.it/Textile-Drawing-Machine-2017) and for more on the first iteration of the project go [here](https://eumo.it/Digital-Wax-Print-1-2013)
 
 ### Machine
 
